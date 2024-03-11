@@ -1,0 +1,8 @@
+body {
+  width: 100%;
+}
+.title {
+  height: 100px;
+  background-color: #666666;
+  text-align: center;
+}

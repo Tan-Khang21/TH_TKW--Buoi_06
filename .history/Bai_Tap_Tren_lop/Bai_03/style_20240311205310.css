@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  background-color: #ffcccb;
+}
+.header {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

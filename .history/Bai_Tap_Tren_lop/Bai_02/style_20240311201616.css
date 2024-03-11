@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  background-color: #ffcccb;
+}
+.title {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+.item {
+  width: 33%;
+}

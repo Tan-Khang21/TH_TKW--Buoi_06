@@ -1,0 +1,28 @@
+body {
+  width: 100%;
+}
+.title {
+  height: 100px;
+  background-color: #666666;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation {
+  width: 30%;
+  height: 400px;
+  background-color: #cccccc;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  float: left;
+}
+.Article {
+  width: 69%;
+  height: 400px;
+  background-color: #f1f1f1;
+  float: right;
+}
